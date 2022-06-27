@@ -1,0 +1,21 @@
+robotframework
+robotframework-faker
+robotframework-seleniumlibrary
+robotframework-debuglibrary
+robotframework-pabot
+robotframework-requests
+robotframework-archivelibrary
+Faker
+requests
+xmltodict
+urllib3
+pandas
+xlrd
+pyyaml
+pymupdf
+frontend
+pillow
+tika
+
+
+# pip install -r requirements.txt
